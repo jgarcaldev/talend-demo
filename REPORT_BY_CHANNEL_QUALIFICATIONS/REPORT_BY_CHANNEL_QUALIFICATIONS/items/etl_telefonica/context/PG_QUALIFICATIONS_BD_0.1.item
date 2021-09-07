@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_re5L4Aw4EeyUdONrzQMfWA" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_re5L4Qw4EeyUdONrzQMfWA" comment="" name="PG_QUALIFICATIONS_BD_Server" prompt="PG_QUALIFICATIONS_BD_Server?" promptNeeded="false" type="id_String" value="localhost"/>
+  <contextParameter xmi:id="_re5L4gw4EeyUdONrzQMfWA" comment="" name="PG_QUALIFICATIONS_BD_Schema" prompt="PG_QUALIFICATIONS_BD_Schema?" promptNeeded="false" type="id_String" value="public"/>
+  <contextParameter xmi:id="_re5L4ww4EeyUdONrzQMfWA" comment="" name="PG_QUALIFICATIONS_BD_Login" prompt="PG_QUALIFICATIONS_BD_Login?" promptNeeded="false" type="id_String" value="postgres"/>
+  <contextParameter xmi:id="_re5L5Aw4EeyUdONrzQMfWA" comment="" name="PG_QUALIFICATIONS_BD_Port" prompt="PG_QUALIFICATIONS_BD_Port?" promptNeeded="false" type="id_String" value="5432"/>
+  <contextParameter xmi:id="_re5L5Qw4EeyUdONrzQMfWA" comment="" name="PG_QUALIFICATIONS_BD_AdditionalParams" prompt="PG_QUALIFICATIONS_BD_AdditionalParams?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_re5L5gw4EeyUdONrzQMfWA" comment="" name="PG_QUALIFICATIONS_BD_Password" prompt="PG_QUALIFICATIONS_BD_Password?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:Oo6TF2EpW2k/9sb17bwUJZvr7BQDljcoy2IO4NVMk6w="/>
+  <contextParameter xmi:id="_re5L5ww4EeyUdONrzQMfWA" comment="" name="PG_QUALIFICATIONS_BD_Database" prompt="PG_QUALIFICATIONS_BD_Database?" promptNeeded="false" type="id_String" value="qualifications"/>
+</talendfile:ContextType>
